@@ -6,4 +6,6 @@ import (
 
 func testing() {
 	fmt.Println("awokawkoawkoawk")
+	fmt.Println("awokawkoawkoawk")
+	fmt.Println("awokawkoawkoawk")
 }
